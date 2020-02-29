@@ -43,20 +43,20 @@
 
 # Technical support：
 
-### Contact: 武新义
+Contact: 武新义
 
-### Tel: +8613382050875
+Tel: +8613382050875
 
-### Email: ly-080208@163.com
+Email: ly-080208@163.com
 
-### If you have any questions, please contact me with no hesitation.Thank you!
+If you have any questions, please contact me with no hesitation.Thank you!
 
 ## 技术支持：
 
-### 联系：武新义
+联系：武新义
 
-### 电话：+8613382050875
+电话：+8613382050875
 
-### 邮箱：ly-080208@163.com
+邮箱：ly-080208@163.com
 
-### 如有任何问题，请联系！
+如有任何问题，请联系！
