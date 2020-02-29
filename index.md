@@ -41,25 +41,24 @@
 
 正因为边民互市贸易的潜力巨大，且对当地经济发展，提高贫困边民生活有着巨大促进作用，所以，对此大通汇一直在这条路上不断前进，不言放弃！
 
-# 技术支持
-##Technical support：
+# Technical support：
 
-###Contact: 武新义
+### Contact: 武新义
 
-###Tel: +8613382050875
+### Tel: +8613382050875
 
-###Email: ly-080208@163.com
+### Email: ly-080208@163.com
 
-###If you have any questions, please contact me with no hesitation.
+### If you have any questions, please contact me with no hesitation.
 
 Thank you!
 
-##技术支持：
+## 技术支持：
 
-###联系：王迅
+### 联系：王迅
 
-###电话：+85268591491
+### 电话：+85268591491
 
-###邮箱：gitX6TA78@163.com
+### 邮箱：gitX6TA78@163.com
 
-###如有任何问题，请联系！
+### 如有任何问题，请联系！
