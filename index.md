@@ -49,9 +49,7 @@
 
 ### Email: ly-080208@163.com
 
-### If you have any questions, please contact me with no hesitation.
-
-Thank you!
+### If you have any questions, please contact me with no hesitation.Thank you!
 
 ## 技术支持：
 
