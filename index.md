@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## 公司简介
 
-You can use the [editor on GitHub](https://github.com/wxy13382050875/dth.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+云南大通汇国际电子商务有限公司2012年6月成立于昆明市，公司注册地昆明市武成路民生街，由国金满斗（北京）投资有限公司控股，注册资金1亿元。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+致力于“互联网”+高效物流和“互联网”+电子商务领域的研究，促成更多口岸通关及物流、跨境电商、边民互市贸易、综合保税区、保税物流中心的互联网产品应用；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+积极响应国家“富民强边”“精准扶贫”政策的号召，为促进我国边境地区积极发展、提高边民生活条件、巩固睦邻国家友好关系做出贡献。
 
-```markdown
-Syntax highlighted code block
+ 
 
-# Header 1
-## Header 2
-### Header 3
+大通汇目前在职有50名信息化的专业人员，是一支具有多年实践经验、专业于口岸通关、跨境电商、边民互市贸易、海关综保区信息化和物流信息化的复合型和专业型的人才队伍；
 
-- Bulleted
-- List
+其中博士1人、硕士5人、本科38人、大专6人。骨干团队成员具有十年以上在口岸通关、跨境电商、边民互市贸易、海关综保区信息化和物流信息化的实践经验，参与过多个综保区、保税物流中心、边民互市贸易及海关口岸通关信息化项目的设计和开发。
 
-1. Numbered
-2. List
+### 边民互市贸易+跨境电商平台：
 
-**Bold** and _Italic_ and `Code` text
+将边民互市贸易与电商相结合，促进“互市贸易+电商+专业市场+仓储物流”四位一体的发展，以专业市场实体商铺为依托，将互市产品进行线下展示体验，同时建立“大通汇跨境购”综合电子商务平台进行线上营销，为边民销售互市产品提供平台，实现精准扶贫和我省电商的飞跃发展；
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1、边民互市贸易的意义：
 
-### Jekyll Themes
+为贯彻集团关于“跨境电商”的战略部署，建立具有自主创新的“跨境电商”运营模式，并满足各级政府对云南跨境电商的发展要求，大通汇将致力于开拓全新“跨境电商”运营模式，建设以中-越进出口双向贸易模式，以中越双方实体贸易为切入点，依托河口“边民互市”优势政策，解决中越小额B2B跨境交易流通问题，实现双方实体经济资源互换，合作共赢局面。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wxy13382050875/dth.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+在此基础上，大通汇将建设越南-中国双向购物电商平台，通过“全民招商”方式整合双向优质产品，为“中国制造”产品进行越南以及东南亚市场的拓展，并依托集团“全民分销”模式，将越南特色产品进行国内的大规模分销推广，最终实现“大通汇”做为滇越乃至中越跨境电商+实体贸易的唯一窗口企业。
 
-### Support or Contact
+将云南建设成为东南亚贸易辐射中心，促进云南省经济飞速发展，带动当地居民生活水平不断提高。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2、边民互市的作用：
+ 致力将越南特色产品拓展国内市场，当地边民可享受到市场拓展的成功果实，使边民互市的边民销售量增加，协助精准扶贫工作的展开；
+
+大通汇将致力发展中国制造产品出口越南，解决跨境电商贸易逆差问题，使进出口比例达到6:4；
+
+将中国产能过剩厂家资源整合，开拓越南以及东南亚市场，实现产能过剩的产品走出去的目标；
+
+建设中越跨境B2B  B2C双向互通电商模式，填补双方市场空白，从经济贸易上达到对中越甚至东南亚各国的睦邻友好，和平共赢目的；
+
+ 
+
+正因为边民互市贸易的潜力巨大，且对当地经济发展，提高贫困边民生活有着巨大促进作用，所以，对此大通汇一直在这条路上不断前进，不言放弃！
+
+# 技术支持
+
